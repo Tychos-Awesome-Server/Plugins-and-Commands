@@ -1,4 +1,4 @@
-#commands
-SetSoftwareName (goes with the plugin SetSoftwareName) - filename: CmdSetSoftwareName.cs
-#plugins
-SetSoftwareName (goes with the command SetSoftwareName) - filename: SetSoftwareName.cs
+<br />#commands
+<br />SetSoftwareName (goes with the plugin SetSoftwareName) - filename: CmdSetSoftwareName.cs
+<br />#plugins
+<br />SetSoftwareName (goes with the command SetSoftwareName) - filename: SetSoftwareName.cs
