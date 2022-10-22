@@ -1,0 +1,25 @@
+header {
+  background-color: #9873AC;
+  height: 55px;
+  width: 100%;
+  margin: 0;
+  color: #000000;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.header_img {
+  height: 50px;
+  length: 50px;
+}
+
+.header_button {
+height: 55px;
+length: 136.5px;
+}
